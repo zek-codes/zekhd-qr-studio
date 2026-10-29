@@ -1,0 +1,6 @@
+{
+  "name": "ZEK HD QR Studio",
+  "description": "Smart PVC & NFC business card QR generator and order studio for ZEK HD, Zimbabwe's tech and design partner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
